@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](hthttps://www.frontendmentor.io/solutions/responsive-product-card-with-scss-cIFWl2dDqA)
 - Live Site URL: [Netlify](https://fm-product-preview-card-sergio.netlify.app/)
 
 ## My process
